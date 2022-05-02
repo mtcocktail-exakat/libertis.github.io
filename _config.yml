@@ -4,7 +4,7 @@ description: Association des professionnels du logiciel libre Aix-Marseille
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "darkorange" # the scheme can be any HEX code like "#00aa55" Cadmium orange #ed872d
 
 sass:
   sass_dir: /assets/css/_sass
